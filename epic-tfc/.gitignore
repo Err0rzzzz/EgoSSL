@@ -1,0 +1,66 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# =====================
+# Virtual environments
+# =====================
+env/
+venv/
+.venv/
+conda_env/
+
+# =====================
+# Large data files
+# =====================
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# =====================
+# Generated images / montages
+# =====================
+*.jpg
+*.png
+*.jpeg
+
+# =====================
+# Logs and outputs
+# =====================
+logs/
+outputs/
+runs/
+checkpoints/
+
+# =====================
+# EPIC-KITCHENS / datasets
+# =====================
+data/
+dataset/
+datasets/
+EPIC_KITCHENS/
+epic-kitchens/
+epic_tfc/
+annotations/
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# Temporary files
+# =====================
+*.tmp
+*.log
