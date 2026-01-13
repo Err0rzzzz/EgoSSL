@@ -1,0 +1,4 @@
+num_samples: 2243
+num_classes: 64
+major_class: 0 count=489 majority_acc=0.2180
+holdout_acc: 0.2277
